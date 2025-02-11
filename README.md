@@ -14,9 +14,7 @@
 
 ### 直接使用
 
-1. 在 `dist` 目录下找到 `GitHub520加速工具.exe`
-2. 双击运行（需要管理员权限）
-3. 按照菜单提示进行操作
+到 [Releases](https://github.com/abcdream-Lary/github-hosts-tool/edit/main/Releases/) 页面下载exe程序运行
 
 ### 从源码运行
 
